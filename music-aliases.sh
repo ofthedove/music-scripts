@@ -17,5 +17,7 @@ start_spotify() {
 
 spot() {
    start_spotify
-   /bin/bash Mustream/play "$1"
+   /bin/bash ~/music-scripts/Mustream/play "$1"
 }
+
+alias spotBond='spot https://open.spotify.com/playlist/37i9dQZF1DX0ZzMQgXnSUD?si=dc9a0474a5524fb3'
