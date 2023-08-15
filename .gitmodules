@@ -1,6 +1,3 @@
 [submodule "Mustream"]
 	path = Mustream
 	url = https://github.com/BelkaDev/Mustream.git
-[submodule "6800547"]
-	path = 6800547
-	url = https://gist.github.com/6800547.git

@@ -1,4 +1,0 @@
-Gtk-Message: 15:25:25.176: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
-Gtk-Message: 15:25:25.176: Failed to load module "appmenu-gtk-module"
-libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
-WARNING: Kernel has no file descriptor comparison support: Operation not permitted
